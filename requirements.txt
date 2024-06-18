@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-community
+langsmith
+neo4j
+openai
+
+python-dotenv
+
+# for python_02
+openai
